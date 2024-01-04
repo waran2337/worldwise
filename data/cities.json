@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Galewela",
+      "country": "Sri Lanka",
+      "emoji": "🇱🇰",
+      "date": "2024-01-01T12:22:39.639Z",
+      "notes": "trip to Sri Lanka",
+      "position": {
+        "lat": "7.754537346539386",
+        "lng": "80.59570312500001"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Al Jawf",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2024-01-01T18:22:32.964Z",
+      "notes": "dasd effsdfds",
+      "position": {
+        "lat": "24.766784522874453",
+        "lng": "20.566406250000004"
+      },
+      "id": 98443205
+    }
+  ]
+}
