@@ -1,8 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# The Wild Oasis- 
+Built a full-stack hotel management web app (The Wild Oasis) using React, React Query, React-Router-DOM, Supabase for the backend API. It uses Styled components and Recharts Lib providing CSS styles and interactive data visualizations.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+project link - https://the-wild-oasis-topaz-xi.vercel.app/
+![image](https://github.com/waran2337/worldwise/assets/43964675/efb39ebb-6369-46d9-af72-7906f443dd32)
+![image](https://github.com/waran2337/worldwise/assets/43964675/5cf074a1-48d9-48fe-8dfa-1e62639e8318)
